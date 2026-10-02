@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# PLAXIS model files
+*.p2dx
+*.p2dxdat/
+*.p2dxlog
+*.opi
+*.plxml
+*.full
